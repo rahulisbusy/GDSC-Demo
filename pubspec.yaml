@@ -36,3 +36,7 @@ flutter:
      - images/jgec.png
      - images/gdsc.png
      - images/collab.png
+  fonts:
+    - family: IBM
+      fonts:
+        - asset: IBMPlexSans-SemiBold.ttf
